@@ -1,5 +1,6 @@
 """
-Basic example to query RFM69HW internal register information
+Basic example using rfm69_1.py to listen to RFM sender implemented on Arduino using LowPowerLabs Arduino library 
+@languer2023-2024
 """
 
 
