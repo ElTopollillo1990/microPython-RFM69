@@ -87,6 +87,7 @@ try:
             print("Packet received  =>  ", packet.hex(','))
             print("Packet length->", len(packet), " / ", radio.PacketLen)
             print("RSSI (dBm):", radio.RSSI, " | Time Elapsed (s):", timeElapsed)
+            blink_led() #visual indicator of received message
 except KeyboardInterrupt:
     print("shutting down")
     radio.shutdown()
