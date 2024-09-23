@@ -1,8 +1,10 @@
 """
 rfm69.py - Limited library for RFM69 Packet Radio module (SPI interface)
 based on LowPowerLabs Arduino implementation (http://lowpowerlab.com/)
+    port of receiver library working
+	port of transmitter library not complete
 
-2023 - @languer
+2023-2024 - @languer
 https://github.com/ElTopollillo1990/microPython-RFM69/
 
 credits:
