@@ -1,4 +1,4 @@
-usage examples
+**usage examples**
 
 * rm69_example1.py -> Basic example using rfm69_1.py to query RFM69HW internal register
   * ex1 - output.txt -> normal REPL (THONNY) output for "rm69_example1.py"
